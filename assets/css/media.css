@@ -1,0 +1,19 @@
+h1 {
+    font-size: max(2rem, min(5.22vw, 4rem));
+    line-height: 125%;
+}
+
+.section-top__inner {
+    padding: max(20px, min(5.22vw, 64px));
+}
+
+.title {
+    font-size: max(1.75rem, min(3.92vw, 3rem));
+    line-height: 116%;
+}
+
+.blog-detail-page h2,
+.title-l {
+    font-size: max(1.75rem, min(2.61vw, 2rem));
+    line-height: 125%;
+}
